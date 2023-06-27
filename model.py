@@ -7,6 +7,6 @@ def model2():
     print("model 2")
 
 def model3():
-    print("model 3")
+    print("Model 3")
 
 print("model 2 is better than others")
